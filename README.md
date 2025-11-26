@@ -9,7 +9,7 @@
 
 - 👯 My Hobbies are **Playing Chess, Listning Music**
 
-- 💬 Ask me about **Power BI, SQL**
+- 💬 Ask me about **Power BI, SQL, Power Query, Excel A.I.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
