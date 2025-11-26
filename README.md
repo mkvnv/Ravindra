@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 My Hobbies are **Playing Chess**
+- 👯 My Hobbies are **Playing Chess, Listning Music**
 
 - 💬 Ask me about **Power BI, SQL**
 
